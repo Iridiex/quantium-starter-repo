@@ -1,0 +1,3 @@
+# Quantium starter repo dependencies
+dash[testing]==4.0.0
+pandas==2.3.3
